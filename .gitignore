@@ -1,0 +1,8 @@
+# Course materials
+materials/
+
+# Python virtual environment
+.venv/
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
