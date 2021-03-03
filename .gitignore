@@ -1,8 +1,18 @@
+# Datasets
+datasets/
+
 # Course materials
 materials/
 
 # Python virtual environment
 .venv/
 
+# Python byte-compiled
+__pycache__/
+
 # Jupyter checkpoint files
 .ipynb_checkpoints/
+
+# Vim temporary files
+*~ 
+

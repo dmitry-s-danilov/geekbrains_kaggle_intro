@@ -1,4 +1,4 @@
-### Python virtual environment creation
+### Create Python virtual environment
 
 ```bash
 # Create virtual environment.
@@ -37,4 +37,27 @@ cat ~/.local/share/jupyter/kernels/kaggle_intro/kernel.json
 
 # Deactivate virtual environment.
 deactivate
+```
+
+### Install python modules
+
+```
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install scipy
+pip install sklearn
+```
+
+```
+pip check
+
+pip list
+
+pip freeze > requirements.txt 
+cat requirements.txt
+```
+
+```
+pip install --upgrade spyder-kernels
 ```
